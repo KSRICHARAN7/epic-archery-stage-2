@@ -1,1 +1,2 @@
-# epic-archery-stage-2
+# PRO-C25-SA
+boilerplate code for student activituy
